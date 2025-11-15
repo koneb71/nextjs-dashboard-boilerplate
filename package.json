@@ -1,0 +1,18 @@
+{
+  "name": "nextjs-dashboard-boilerplate",
+  "version": "1.0.0",
+  "description": "Next.js admin dashboard boilerplate featuring Grid.js for data tables and react-pdf for PDF export.",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "next": "latest",
+    "react": "latest",
+    "react-dom": "latest",
+    "gridjs": "^6.0.6",
+    "gridjs-react": "^2.0.2",
+    "@react-pdf/renderer": "^3.0.0"
+  }
+}
